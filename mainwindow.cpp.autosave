@@ -2525,3 +2525,8 @@ void MainWindow::on_promooo_clicked()
 {
         ui->stackedWidget->setCurrentIndex(12);
 }
+
+void MainWindow::on_pushButton_124_clicked()
+{
+    ui->stackedWidget->setCurrentIndex(18);
+}

@@ -377,6 +377,8 @@ private slots:
 
      void on_promooo_clicked();
 
+     void on_pushButton_124_clicked();
+     
 private:
     Ui::MainWindow *ui;
     commande tmpcommande;

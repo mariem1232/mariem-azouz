@@ -19,6 +19,7 @@ SOURCES += \
     articles.cpp \
     client.cpp \
     commande.cpp \
+    commandeachat.cpp \
     conge.cpp \
     connection.cpp \
     employee.cpp \
@@ -34,6 +35,7 @@ HEADERS += \
     articles.h \
     client.h \
     commande.h \
+    commandeachat.h \
     conge.h \
     connection.h \
     employee.h \
